@@ -58,6 +58,13 @@ hist(random_numbers3)
 # Random numbers 4
 
 ```{r, random-numbers4-histogram}
-#| fig.cap = "Third set of random numbers"
+#| fig.cap = "Fourth set of random numbers"
 hist(random_numbers4)
+```
+
+# Random numbers 5
+
+```{r, random-numbers4-histogram}
+#| fig.cap = "Fifth set of random numbers"
+hist(random_numbers5)
 ```
